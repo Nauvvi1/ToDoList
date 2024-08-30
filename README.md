@@ -1,4 +1,4 @@
-Запустить проект на Node.js и выполните следующие команды:
+Запустите проект на Node.js и выполните следующие команды:
 npm init -y
 npm install express lowdb nodemon nanoid @lowdb/node
 
